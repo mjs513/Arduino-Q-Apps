@@ -1,0 +1,6 @@
+name: strealit_test1
+description: ""
+ports: []
+bricks:
+- arduino:streamlit_ui: {}
+icon: 😀

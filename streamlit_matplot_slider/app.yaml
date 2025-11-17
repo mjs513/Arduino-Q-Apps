@@ -1,0 +1,6 @@
+name: Streamlit_matplot_slider
+description: ""
+ports: []
+bricks:
+- arduino:streamlit_ui: {}
+icon: 😀

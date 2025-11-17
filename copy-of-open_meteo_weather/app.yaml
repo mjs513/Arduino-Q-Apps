@@ -1,0 +1,6 @@
+name: Copy of Open_meteo_weather
+description: ""
+ports: []
+bricks:
+- arduino:streamlit_ui: {}
+icon: 😀
